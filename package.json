@@ -4,7 +4,7 @@
   "scripts": {
     "start": "node index.js",  
     "test": "mocha test/*.js", 
-    "build": "npm install"  
+    "build": "echo 'No build step required'"
   },
   "keywords": [],
   "author": "",
