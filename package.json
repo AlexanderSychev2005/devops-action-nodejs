@@ -2,9 +2,9 @@
   "name": "your-nodejs-app",
   "version": "1.0.0",
   "scripts": {
-    "start": "node index.js",  // Adjust this if your entry point is different
-    "test": "mocha test/*.js",  // Adjust this for your test setup
-    "build": "npm install"  // This is just a placeholder example
+    "start": "node index.js",  
+    "test": "mocha test/*.js", 
+    "build": "npm install"  
   },
   "keywords": [],
   "author": "",
